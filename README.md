@@ -30,7 +30,7 @@ A simple task manager application built with React, TypeScript, and Vite.
    npm run dev
    ```
 
-4. Open your browser and navigate to `http://localhost:3000`
+4. Open your browser and navigate to `http://localhost:5173`
 
 ## Usage
 
